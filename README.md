@@ -98,7 +98,7 @@ This repository is created to keep track of JavaScript Learning. This course is 
  * Factory functions & discuss some memory related problems
  * First solution to that problems
  * Why that soulution isn't that great
- * What is __proto__, [[prototype]]
+ * What is __'__proto__'__, [[prototype]]
  * What is prototype
  * Use prototype
  * New keyword
